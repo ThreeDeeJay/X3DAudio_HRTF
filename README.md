@@ -1,6 +1,6 @@
 # X3DAudio HRTF
 
-Drop-in DLL that adds 3D audio to some apps/games using X3DAudio API, such as some Unreal Engine 3/4/UDK games.  
+Drop-in DLL that adds 3D audio to some apps using X3DAudio API, such as some Unreal Engine 3/4/UDK games.  
 
 Originally available at https://github.com/kosumosu, but it was eventually made private and [this](https://github.com/HungryDoctor/x3daudio1_7_hrtf) was selected as the main fallback repo, even though it was outdated, unlike [this one](https://github.com/clayne/x3daudio1_7_hrtf). My fork contains a manual merge and compiled binaries of the [latest official repo, plus fixes](https://github.com/clayne/x3daudio1_7_hrtf/compare/master...ThreeDeeJay:x3daudio1_7_hrtf:master) from [another now-defunct repo](https://github.com/jimmon89/x3daudio1_7_hrtf).
 
