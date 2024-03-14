@@ -12,7 +12,4 @@ Originally available at https://github.com/kosumosu, but it was eventually made 
 - [X3DAudio Test app](https://airtable.com/appayGNkn3nSuXkaz/shrpPCOJwJiA8T8Hr/tbl3TyLn23qfBWZTz/viwEFl4VhIITjGRw1/reccO5t2Iw3qeVnKr)  
   
 - [Introduction to 3D audio](https://kutt.it/Binaural)
-- Chat servers for support/discussion: 
- - [Discord](https://kutt.it/BinauralDiscord)    
- - [Revolt](https://kutt.it/BinauralRevolt)    
- - [Matrix](https://kutt.it/BinauralMatrix)   
+- Chat servers for support/discussion: [Discord](https://kutt.it/BinauralDiscord) / [Revolt](https://kutt.it/BinauralRevolt) / [Matrix](https://kutt.it/BinauralMatrix)   
